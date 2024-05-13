@@ -40,5 +40,4 @@ function execQuery($query) {
         return;
     }
 }
-
 ?>
